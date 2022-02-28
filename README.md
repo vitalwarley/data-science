@@ -41,6 +41,7 @@ Somethings shouldn't be here, but as I write these words I think of them. Someti
 - python: code quality / best practices in documentation, testing and style. TODO: create repo.
 - packages: pytorch, keras, guildai, etc.
 - linux/arch linux: optimize workflow. TODO: create repo.
+- organization: roam research, quire etc.
 - more: psychology of productivity, tips on problem solving etc.
 
 
