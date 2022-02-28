@@ -10,6 +10,11 @@ I hope to learn and share detailed step-by-step guides on how solve ML (for now 
 
 ## Resources
 
+- MLOps
+  - [MLOps Principles](https://ml-ops.org/content/mlops-principles)
+
+    > SIG MLOps defines “an optimal MLOps experience [as] one where Machine Learning assets are treated consistently with all other software assets within a CI/CD environment. Machine Learning models can be deployed alongside the services that wrap them and the services that consume them as part of a unified release process.” By codifying these practices, we hope to accelerate the adoption of ML/AI in software systems and fast delivery of intelligent software.
+
 - Design
   - [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)
 
